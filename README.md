@@ -1,4 +1,4 @@
-# -Retail-Data-Analytics-Project
+# Retail-Data-Analytics-Project
 
 Data Analysis
 1. Data Exploration: Used SQL queries and Python (pandas, matplotlib,
